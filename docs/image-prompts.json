@@ -1,0 +1,193 @@
+{
+  "generator": "Built-in imagegen tool",
+  "purpose": "Illustrative product reconstructions for owner review",
+  "output": "800 × 800 WebP; quality 88; local assets",
+  "assets": [
+    {
+      "id": "ananas",
+      "prompt": "Use case: product-mockup. Asset type: individual product photograph for the Donat Eis café menu. Elegant authentic European ice cream parlour presentation, photorealistic studio food photography, warm white to very pale lavender seamless background, soft diffused daylight, delicate realistic glass and a faint grounded shadow. Full clear stemmed wide conical sundae glass centered with entire stem and base visible, dessert fills 85% of vertical frame, square image, no text, no branding, no people, no extra props. Toppings and ingredients must be only those listed below; a golden heart-shaped wafer as in the original printed menu. Three scoops of pale vanilla-coloured ice cream, whipped cream, fresh yellow pineapple chunks. No sauce or other fruit.",
+      "path": "public/images/ananas.webp",
+      "generatedFile": "exec-1c6002b6-8494-4f77-be30-3e6527db909b.png"
+    },
+    {
+      "id": "stracciatella",
+      "prompt": "Use case: product-mockup. Asset type: individual product photograph for the Donat Eis café menu. Elegant authentic European ice cream parlour presentation, photorealistic studio food photography, warm white to very pale lavender seamless background, soft diffused daylight, delicate realistic glass and a faint grounded shadow. Full clear stemmed wide conical sundae glass centered with entire stem and base visible, dessert fills 85% of vertical frame, square image, no text, no branding, no people, no extra props. Toppings and ingredients must be only those listed below; a golden heart-shaped wafer as in the original printed menu. Three scoops of white ice cream with chocolate flecks, whipped cream, glossy dark chocolate sauce.",
+      "path": "public/images/stracciatella.webp",
+      "generatedFile": "exec-cb6d3836-0a15-44c5-86f3-ba3c8b920a45.png"
+    },
+    {
+      "id": "haselnuss",
+      "prompt": "Use case: product-mockup. Asset type: individual product photograph for the Donat Eis café menu. Elegant authentic European ice cream parlour presentation, photorealistic studio food photography, warm white to very pale lavender seamless background, soft diffused daylight, delicate realistic glass and a faint grounded shadow. Full clear stemmed wide conical sundae glass centered with entire stem and base visible, dessert fills 85% of vertical frame, square image, no text, no branding, no people, no extra props. Toppings and ingredients must be only those listed below; a golden heart-shaped wafer as in the original printed menu. Three scoops of hazelnut ice cream, whipped cream, chopped hazelnuts, hazelnut sauce.",
+      "path": "public/images/haselnuss.webp",
+      "generatedFile": "exec-cce0213e-fdfb-497c-bbdc-fd505c53aed2.png"
+    },
+    {
+      "id": "erdbeer",
+      "prompt": "Use case: product-mockup. Asset type: individual product photograph for the Donat Eis café menu. Elegant authentic European ice cream parlour presentation, photorealistic studio food photography, warm white to very pale lavender seamless background, soft diffused daylight, delicate realistic glass and a faint grounded shadow. Full clear stemmed wide conical sundae glass centered with entire stem and base visible, dessert fills 85% of vertical frame, square image, no text, no branding, no people, no extra props. Toppings and ingredients must be only those listed below; a golden heart-shaped wafer as in the original printed menu. Three scoops of pink strawberry ice cream, whipped cream, fresh sliced strawberries and red strawberry sauce.",
+      "path": "public/images/erdbeer.webp",
+      "generatedFile": "exec-67c4e3d3-da57-4801-ad7f-b79f4276acbf.png"
+    },
+    {
+      "id": "schoko",
+      "prompt": "Use case: product-mockup. Asset type: individual product photograph for the Donat Eis café menu. Elegant authentic European ice cream parlour presentation, photorealistic studio food photography, warm white to very pale lavender seamless background, soft diffused daylight, delicate realistic glass and a faint grounded shadow. Full clear stemmed wide conical sundae glass centered with entire stem and base visible, dessert fills 85% of vertical frame, square image, no text, no branding, no people, no extra props. Toppings and ingredients must be only those listed below; a golden heart-shaped wafer as in the original printed menu. Three scoops of chocolate ice cream, whipped cream, chocolate sauce, chocolate shavings.",
+      "path": "public/images/schoko.webp",
+      "generatedFile": "exec-7189d5bc-3df0-4516-9dd4-5cce96961819.png"
+    },
+    {
+      "id": "banane",
+      "prompt": "Use case: product-mockup. Asset type: individual product photograph for the Donat Eis café menu. Elegant authentic European ice cream parlour presentation, photorealistic studio food photography, warm white to very pale lavender seamless background, soft diffused daylight, delicate realistic glass and a faint grounded shadow. Full clear stemmed wide conical sundae glass centered with entire stem and base visible, dessert fills 85% of vertical frame, square image, no text, no branding, no people, no extra props. Toppings and ingredients must be only those listed below; a golden heart-shaped wafer as in the original printed menu. Three scoops of pale ice cream, fresh banana slices, whipped cream and dark Nutella sauce.",
+      "path": "public/images/banane.webp",
+      "generatedFile": "exec-1b4fc378-563c-4e9a-9415-92fd2d833b05.png"
+    },
+    {
+      "id": "walnuss",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pale scoops, walnuts, whipped cream, walnut sauce, heart wafer, clear stemmed sundae glass.",
+      "path": "public/images/walnuss.webp",
+      "generatedFile": "exec-a83edb5b-5fb3-47a1-b675-9c6d1011a2a6.png"
+    },
+    {
+      "id": "krokant",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pale scoops, brittle topping, whipped cream and caramel sauce, heart wafer, clear stemmed sundae glass.",
+      "path": "public/images/krokant.webp",
+      "generatedFile": "exec-42efdd9a-b6b0-4d88-9857-cd723134b067.png"
+    },
+    {
+      "id": "klein",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 2 scoops of pink and pale ice cream, mixed fruit, whipped cream, strawberry sauce, heart wafer, clear stemmed sundae glass.",
+      "path": "public/images/klein.webp",
+      "generatedFile": "exec-c16c2bce-0969-41cf-8052-224623ed596a.png"
+    },
+    {
+      "id": "pfirsich",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pale scoops, fresh sliced peaches, whipped cream, red fruit sauce, heart wafer, clear stemmed sundae glass.",
+      "path": "public/images/pfirsich.webp",
+      "generatedFile": "exec-f258c4fd-a5b9-470b-af35-c4268eb5b919.png"
+    },
+    {
+      "id": "melone",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Half a cantaloupe carved with zigzag rim as an edible bowl, two pale ice cream scoops, mixed fresh fruits, whipped cream, strawberry sauce, heart wafer, inside a wide short glass pedestal bowl. Like an authentic 1970s European café melon sundae.",
+      "path": "public/images/melone.webp",
+      "generatedFile": "exec-e1fef11c-3126-4f34-bb3b-4239cfdc17f6.png"
+    },
+    {
+      "id": "erdbeeren-sahne",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Fresh sliced strawberries, generous whipped cream and strawberry sauce, heart wafer, in a clear wide conical stemmed glass. No ice cream.",
+      "path": "public/images/erdbeeren-sahne.webp",
+      "generatedFile": "exec-e3ce8588-e252-498a-95b9-8036fa5650df.png"
+    },
+    {
+      "id": "mexico",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 scoops mixed pink chocolate and pale ice cream, mixed fresh fruit, whipped cream and strawberry sauce, heart wafer and a pineapple slice, in a tall decorative stemmed sundae glass.",
+      "path": "public/images/mexico.webp",
+      "generatedFile": "exec-52de52bf-4d93-4dda-8187-fb21707798f9.png"
+    },
+    {
+      "id": "kiwi",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pale scoops, fresh kiwi slices, whipped cream, green kiwi sauce, heart wafer, clear stemmed conical sundae glass.",
+      "path": "public/images/kiwi.webp",
+      "generatedFile": "exec-382ddefc-4a80-487d-94ed-dada5ac1086e.png"
+    },
+    {
+      "id": "raffaello",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 white Raffaello ice cream scoops, white coconut-coated Raffaello sweets, whipped cream, white Raffaello sauce, heart wafer, clear conical stemmed sundae glass.",
+      "path": "public/images/raffaello.webp",
+      "generatedFile": "exec-26f9c56c-3f86-494e-a6ab-33b3a7f42124.png"
+    },
+    {
+      "id": "himbeere",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pink ice cream scoops, fresh raspberries, whipped cream and raspberry sauce, heart wafer, clear conical stemmed sundae glass.",
+      "path": "public/images/himbeere.webp",
+      "generatedFile": "exec-5aac4906-0719-44dd-ab17-8904359ad1eb.png"
+    },
+    {
+      "id": "heidelbeere",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pale pink ice cream scoops, fresh blueberries, whipped cream and blueberry-coloured sauce, heart wafer, clear conical stemmed sundae glass.",
+      "path": "public/images/heidelbeere.webp",
+      "generatedFile": "exec-74b7c5f5-09bf-471a-8219-8d6c3783bfc7.png"
+    },
+    {
+      "id": "amarena",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pink scoops, dark glossy Amarena cherries, red Amarena sauce, whipped cream, heart wafer, clear conical stemmed sundae glass.",
+      "path": "public/images/amarena.webp",
+      "generatedFile": "exec-52260e20-4f2f-404e-bba4-2b84c6d1b937.png"
+    },
+    {
+      "id": "bounty",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 chocolate ice cream scoops, Bounty chocolate coconut pieces, shredded coconut, whipped cream and milk chocolate sauce. Round dark wafer instead of heart wafer. Low-stemmed wide conical sundae glass.",
+      "path": "public/images/bounty.webp",
+      "generatedFile": "exec-f560e4e8-3499-4dff-8a36-57a24a53d10a.png"
+    },
+    {
+      "id": "orangen-flip",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Tall footed milkshake glass filled with orange juice, one scoop of pale vanilla ice cream floating at top, whipped cream and a small amount green kiwi sauce on top. No wafer.",
+      "path": "public/images/orangen-flip.webp",
+      "generatedFile": "exec-aa97b31f-c3ae-4c0f-810a-5149acd64b96.png"
+    },
+    {
+      "id": "banana-split",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Classic banana split in a long low clear glass boat on a plate. 3 ice cream scoops, whipped cream, fresh fruit including strawberries and kiwi, strawberry sauce. Two banana halves either side, a narrow striped rolled wafer.",
+      "path": "public/images/banana-split.webp",
+      "generatedFile": "exec-e8705980-5d59-45e0-b13f-b21f0cf21093.png"
+    },
+    {
+      "id": "ferrero",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 pale hazelnut coloured scoops, Ferrero Rocher chocolate hazelnut sweets with one gold wrapper detail, whipped cream and chocolate sauce. Short stemmed conical clear glass.",
+      "path": "public/images/ferrero.webp",
+      "generatedFile": "exec-fc298c0c-7478-4c15-adbd-f08014fe9178.png"
+    },
+    {
+      "id": "donat",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 mixed pink and pale ice cream scoops, abundant mixed fresh fruit including kiwi strawberry orange blueberries, whipped cream, strawberry sauce, in a tall fluted decorative stemmed glass.",
+      "path": "public/images/donat.webp",
+      "generatedFile": "exec-b0c2161d-5a13-4ac3-be82-4877ab64013e.png"
+    },
+    {
+      "id": "kinder-bueno",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 3 chocolate coloured scoops, Kinder Bueno chocolate wafer pieces, whipped cream and Kinder milk chocolate sauce. Short stemmed conical clear sundae glass.",
+      "path": "public/images/kinder-bueno.webp",
+      "generatedFile": "exec-4ce24983-d2ec-4519-9f19-b84d1a05d733.png"
+    },
+    {
+      "id": "oreo",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 2 white ice cream scoops, Oreo sandwich cookies, whipped cream and chocolate sauce, heart wafer, clear conical stemmed sundae glass.",
+      "path": "public/images/oreo.webp",
+      "generatedFile": "exec-669b0aa5-3711-400d-a5bb-793b8c36a23e.png"
+    },
+    {
+      "id": "vier-kugeln",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: 4 ice cream scoops in pale pink chocolate white and pale yellow, whipped cream, red strawberry sauce, heart wafer in tall conical stemmed sundae glass.",
+      "path": "public/images/vier-kugeln.webp",
+      "generatedFile": "exec-7825bf75-5bfe-4547-b382-1877e1160948.png"
+    },
+    {
+      "id": "obstsalat",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Abundant fresh mixed fruit including strawberry kiwi cantaloupe mango pineapple blueberries, whipped cream and strawberry sauce, heart wafer, in a clear wide stemmed dessert glass. No ice cream.",
+      "path": "public/images/obstsalat.webp",
+      "generatedFile": "exec-252625db-773d-4888-8432-b8642f73b34c.png"
+    },
+    {
+      "id": "eiskaffee",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Tall fluted footed glass with cold black coffee and 2 pale ice cream scoops, topped with whipped cream, golden heart wafer. Entire tall glass including base visible.",
+      "path": "public/images/eiskaffee.webp",
+      "generatedFile": "exec-28ecadc4-3579-4306-827f-2864c900a250.png"
+    },
+    {
+      "id": "milkshake",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Tall footed fluted glass containing a neutral pale creamy milkshake. No fruit, no inferred flavours, no ice cream scoops or wafer. Entire glass including base visible.",
+      "path": "public/images/milkshake.webp",
+      "generatedFile": "exec-cff59437-fd2c-4d9d-931a-b9256d78e490.png"
+    },
+    {
+      "id": "schneemann",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Playful kids ice cream Snowman on white plate. 1 vanilla scoop and 1 lemon scoop stacked, topped with a golden cone hat, two round waffle biscuits either side, bright candy face decorations and sprinkles around plate. Match original European cafe dessert, not cartoon.",
+      "path": "public/images/schneemann.webp",
+      "generatedFile": "exec-dd260878-6ebc-4400-ab79-969b604e3d58.png"
+    },
+    {
+      "id": "micky-maus",
+      "prompt": "Use case: product-mockup. A single clean photorealistic Donat Eis European café dessert product photo. Square image, entire dessert and glass base/plate visible centered, fills 85% height. Warm white/pale lavender seamless studio background, soft diffused daylight, very delicate grounded shadow. Real food texture, appetizing, elegant classic presentation. No text, no logos, no watermark, no props. Include only the following documented food presentation: Playful kids ice cream dessert on white plate: 1 vanilla scoop and 1 chocolate scoop, two round waffle biscuits like round ears, golden cone hat, small dark chocolate buttons for eyes and colourful sprinkles. Match original cafe dessert, not cartoon.",
+      "path": "public/images/micky-maus.webp",
+      "generatedFile": "exec-f972147e-2ebf-4982-8a72-5f688f0e6c73.png"
+    }
+  ]
+}
